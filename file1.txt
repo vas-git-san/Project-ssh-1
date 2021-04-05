@@ -1,3 +1,0 @@
-hello there
-its a project task to add features
-moodifying html page
