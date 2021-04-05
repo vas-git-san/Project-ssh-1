@@ -6,3 +6,5 @@ cat /etc/passwd | grep user
 for i in {1..9};
 do touch file$i ;
 done;
+echo "this is file1" >> file1.txt
+
