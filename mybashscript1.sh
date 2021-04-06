@@ -6,6 +6,8 @@ cat /etc/passwd | grep user
 
 echo "this is file1" > file1.txt
 
-echo "new features adding from here"
+echo "new feature is added from here"
 cat file1.txt
 echo "this is file2" > file2.txt
+cat file2.txt
+
